@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gopika T Portfolio
 
 Welcome to my personal portfolio repository! This website showcases my journey as a B.Tech Biotechnology student transitioning into software development. It features a modern, clean, and responsive design built using fundamental web technologies.
@@ -32,3 +33,6 @@ To run this project on your local machine, follow these steps:
 
 ---
 *Designed & Developed by Gopika T © 2026*
+=======
+# Portfolio_website
+>>>>>>> 43924dede6c45e9ef9ee1af2d218de51a320f744
